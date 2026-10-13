@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29aae766-a6e4-4091-9544-0b9351b4a29f">
+  <producedTypes>
+    <objectType typeId="859693ea-794a-49c7-b39e-725dfea9e3c6" valueTypeId="425011e8-15e9-4cef-917e-fc7c408ec174"/>
+    <refType typeId="aa6e94b1-4b42-43c5-af2e-60bda4543920" valueTypeId="5242c5dc-7e73-4be3-ac6e-2cd026b21eb8"/>
+    <selectionType typeId="a0f711e8-0a7a-4c12-b7ba-3fb83c9ff15b" valueTypeId="b2e330c6-3aa9-47f7-a029-f0fbdeec4fb9"/>
+    <listType typeId="5e48b90d-845c-4930-a1df-35ba6785c656" valueTypeId="5be8bcf5-02d2-46eb-a4ed-2b8c448bc57b"/>
+    <managerType typeId="fc871d27-d655-4c65-8bbe-99f2ce8d143d" valueTypeId="06ee9a4c-6d8a-4639-aa39-1b66f9a05bd4"/>
+  </producedTypes>
+  <name>Справочник0810</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник0810</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Справочник0810.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Справочник0810.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Справочник0810.Form.ФормаЭлемента</defaultObjectForm>
+  <forms uuid="2f2f3110-a8d1-4ebe-b38f-98eb85510722">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>
