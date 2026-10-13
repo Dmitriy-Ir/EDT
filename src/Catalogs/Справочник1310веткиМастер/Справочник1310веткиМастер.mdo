@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b51bcce1-e5d1-47b2-bf03-0a52e6777e98">
+  <producedTypes>
+    <objectType typeId="086daf6c-63c1-49f1-b846-981e7acae071" valueTypeId="2e2d98d3-69b1-4391-8199-6ba123867631"/>
+    <refType typeId="f02c7c5e-7739-4875-8008-2c1c9e165e1e" valueTypeId="13af44c3-ae6b-474f-9fd1-3aa3181c001d"/>
+    <selectionType typeId="a303d8c2-414b-4656-9158-5551fafafb8b" valueTypeId="3be32927-6ef2-495e-a422-86275821e23a"/>
+    <listType typeId="bd38ea61-7f03-4324-a953-4b83b3e5105f" valueTypeId="8b1df414-4b98-4e84-b37b-85813c127ab6"/>
+    <managerType typeId="18bfe860-cf72-44a4-a8fa-651830a8745d" valueTypeId="040ba7e0-6a6e-458e-a3dd-de437cdf7570"/>
+  </producedTypes>
+  <name>Справочник1310веткиМастер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник1310ветки мастер</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Справочник1310веткиМастер.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Справочник1310веткиМастер.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
