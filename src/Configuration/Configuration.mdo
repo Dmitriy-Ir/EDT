@@ -41,4 +41,5 @@
   <catalogs>Catalog.Справочник0810</catalogs>
   <catalogs>Catalog.Справочник1310</catalogs>
   <catalogs>Catalog.Справочник1310веткиМастер</catalogs>
+  <catalogs>Catalog.Справочник1310Второйветки</catalogs>
 </mdclass:Configuration>
