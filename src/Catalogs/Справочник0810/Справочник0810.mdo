@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29aae766-a6e4-4091-9544-0b9351b4a29f">
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="29aae766-a6e4-4091-9544-0b9351b4a29f">
   <producedTypes>
     <objectType typeId="859693ea-794a-49c7-b39e-725dfea9e3c6" valueTypeId="425011e8-15e9-4cef-917e-fc7c408ec174"/>
     <refType typeId="aa6e94b1-4b42-43c5-af2e-60bda4543920" valueTypeId="5242c5dc-7e73-4be3-ac6e-2cd026b21eb8"/>
@@ -31,24 +31,6 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Справочник0810.Form.ФормаЭлемента</defaultObjectForm>
-  <attributes uuid="dd52d6bd-c2af-402d-ac0d-06a0d58a1220">
-    <name>Реквизит1</name>
-    <synonym>
-      <key>ru</key>
-      <value>Реквизит1</value>
-    </synonym>
-    <type>
-      <types>String</types>
-      <stringQualifiers>
-        <length>10</length>
-      </stringQualifiers>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <dataHistory>Use</dataHistory>
-  </attributes>
   <forms uuid="2f2f3110-a8d1-4ebe-b38f-98eb85510722">
     <name>ФормаЭлемента</name>
     <synonym>
